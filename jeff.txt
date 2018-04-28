@@ -1,0 +1,24 @@
+Darrien Glasser
+
+IOT Coffee Maker! It makes coffee over the internet and if that ain't the
+coolest thing you've seen all day, then idk what you're looking at, but you've
+gotta show me.
+
+SW used: Kotlin, Python. See README for detailed software list and usage.
+
+HW Used: Raspberry Pi 3, breadboard, a relay, a couple of wires, a coffee maker
+
+The value of the project is that it's fairly easy to set up with any hardware!
+The design of the software is built with modularity in mind. It can connect to
+any coffee maker securely assuming it uses the same protocol designed for this
+project. 
+
+While the software itself is single purpose, it is easy to make it so it works
+with the hardware you decide to use. The only constraints are that you use a
+POSIX compliant operating system on the the coffee hardware, and that it runs
+Java and Python, that your remote server runs Java, and that you have a phone
+that runs Android. If you have all those things, it will work flawlessly with
+anything.
+
+For install instructions, see the README!
+
