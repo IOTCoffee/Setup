@@ -1,5 +1,12 @@
 # How to set up the whole damn thing
 
+Note - This in the spirit of open source, this whole project is licensed under
+the A-GPL v3 license. If you plan on using or referencing portions of this
+software, you MUST comply with the license and provide the source. 
+
+For more details, see https://www.gnu.org/licenses/agpl-3.0.en.html or check out
+the included LICENSE.txt files in each part of the project.
+
 ## Step 0: Prerequisites
 
 - One coffee maker
